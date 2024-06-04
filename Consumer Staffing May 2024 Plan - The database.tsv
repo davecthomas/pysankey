@@ -1,0 +1,44 @@
+Person	Ladder	Platform / Role	May	June	July	Aug	Sept	Oct	Nov	Dec	Jan	Feb
+Zach Kovar	FTE	Eng Mgr										
+Sarah Evans	FTE	Kotlin	Rewrite Core	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core
+Kyle Schwamkrug	FTE	Backend	Rewrite Core	Rewrite Core	Rewrite Core	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Richard Siwady Gabrie	Consultant	Kotlin	Rewrite Core	Rewrite Core	Rewrite Core	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech
+Theodoro Mota	Consultant	Kotlin	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core
+Emil Bellmann	Consultant	Kotlin	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core
+Lucca Beurmann	Consultant	Kotlin	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Multimodal (Pay)	Multimodal (Pay)	Pay	Pay	Pay	Pay
+Helio Castro	Consultant	QA	Pay	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core
+Daryl Sistrunk	FTE	Eng Mgr	KTLO	KTLO	KTLO	KTLO						
+Ryan Gardner	FTE	Backend	KTLO	KTLO	KTLO	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech
+Vitalii Plakydiuk	Consultant	Android	KTLO	KTLO	KTLO	KTLO	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech
+Vanderlei Alves Jr.	Consultant	iOS	KTLO	KTLO	KTLO	KTLO	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech
+Nataliia Bidak	Consultant	QA	KTLO	KTLO	KTLO	KTLO	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech	Referrals and Martech
+Brayan Bedritchuk	Consultant	Android	KTLO	KTLO								
+Cristian Madrid	Consultant	iOS	KTLO	KTLO								
+Luzenildo Batista	Consultant	iOS	KTLO	KTLO	Rewrite Features	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Cory Van Loozen	FTE	Eng Mgr										
+Salim Addi	FTE	Android	Growth and Retention (Saturn)	Rewrite Features	Rewrite Features	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Gabriel Moro	Consultant	Kotlin	Rewrite Features	Rewrite Features	Rewrite Features	Rewrite Features	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Pedro Alvarez	Consultant	iOS	Growth and Retention (Saturn)	Growth and Retention (Saturn)	Rewrite Features	Rewrite Features	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Otavio Zabaleta	Consultant	iOS	Growth and Retention (Saturn)	Growth and Retention (Saturn)								
+Anderson Maia	Consultant	iOS	Growth and Retention (Saturn)	Growth and Retention (Saturn)		Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Maria Camargo	Consultant	QA	Growth and Retention (Saturn)	Growth and Retention (Saturn)	KTLO	KTLO	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Will Pierce	FTE	Backend	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Pay	Pay	Pay	Pay
+Jose Diaz Palacios	FTE	Backend	Growth and Retention (Saturn)	Growth and Retention (Saturn)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Tom Makowski	FTE	Backend	KTLO	KTLO	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Mike Schmiderer	FTE	iOS	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Pay	Pay	Pay	Pay
+Alex Rodrigues	Consultant	Android	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Pay	Pay	Pay	Pay
+Borys Sahan	Consultant	iOS	Pay	Pay	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Pay	Pay	Pay	Pay
+Rafael Victor Pulido	Consultant	QA	KTLO	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Multimodal (Pay)	Pay	Pay	Pay	Pay
+Lucas Grando	Consultant	Android	Pay	Pay		Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st	Onboarding-1st
+Mark Silva	FTE	Eng Mgr										
+Russ Buchanan	FTE	Backend	Rewrite Features	Rewrite Features	Rewrite Features	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core	Rewrite Core
+Ryan Frueh-Morrissey	FTE	Kotlin	Rewrite Features	Rewrite Features	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Felipe Martins	Consultant	Android	Growth and Retention (Saturn)	Rewrite Features	Rewrite Features	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Uriel Scola	Consultant	Backend	Rewrite Features	Rewrite Features	Rewrite Features	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Inna Kuts	Consultant	iOS	Rewrite Features	Rewrite Features	Rewrite Features	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Natan Grando	Consultant	Kotlin	Rewrite Features	Rewrite Features	Rewrite Features	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+Ricardo Martins	Consultant	QA	KTLO	KTLO	KTLO	Rewrite Features	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel	Bottom of Funnel
+John Vint	FTE	Backend	Rewrite Core									
+Merchant BE 1		Backend	Merchant	Merchant								
+Merchant BE 2		Full stack	Merchant	Merchant								
+Merchant FS 1		Full stack	Merchant	Merchant								
